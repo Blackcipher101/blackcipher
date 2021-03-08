@@ -1,15 +1,15 @@
 - profile:
   initials: AA
-  name: Ashwin Ramakrishnan
-  email: ashwinr@amfoss.in
-  profession: Mobile Developer
+  name: Nehal Nevle
+  email: nehalnevele@gmail.com
+  profession: Robotics
   image: images/profile.jpg
-  location: Coimbatore, TN
-  relocation: false
+  location: Vasco, Goa
+  relocation: true
   company: amFOSS
-  for_hire: false
+  for_hire: true
   focus: Mobile development
-  focus_url: https://developer.android.com/
+  focus_url: https://wiki.ros.org/
   about: |
     Coding is my first love. Getting an idea and implementing it to action is probably the best form of satisfaction as far as I am concerned. I am from, was born, brought up in Coimbatore. I've been an Android developer since my 8th grade. I develop android apps with Kotlin, Java and multiplatform apps using Flutter and Kotlin multiplatform. I'm acquainted with Unity, After effects, Construct. 
 
